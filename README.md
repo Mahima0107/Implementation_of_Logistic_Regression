@@ -3,3 +3,7 @@ Logistic regression is a statistical technique for binary classification. It mod
 * The model outputs a probability between 0 and 1.
 * A common threshold is 0.5: above → predicts diabetes (1); below → no diabetes (0)
 
+* In this dataset There are 9 columns and 768 rows.
+* Algorithm Used: Logistic Regression
+* Libraries: scikit-learn, pandas, matplotlib, seaborn
+
