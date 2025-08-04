@@ -11,4 +11,8 @@ A common threshold is 0.5: above → predicts diabetes (1); below → no diabete
 * In logistic regression models on the Diabetes dataset, glucose levels are the most powerful predictor of diabetes risk, closely followed by BMI, number of pregnancies, age, and genetic predisposition, while insulin, blood pressure, and skinfold thickness show minimal predictive power.”
 
 ✅ Model Accuracy 
-* "Achieved 75% accuracy using Logistic Regression, indicating good model performance in classifying target variables with moderate precision. Further tuning or feature engineering could enhance results." Logistic  regression yields solid baseline performance on this dataset—typically classifying correctly about 3 out of every 4 instances
+* "Achieved 75% accuracy using Logistic Regression, indicating good model performance in classifying target variables with moderate precision. Further tuning or feature engineering could enhance results." Logistic  regression yields solid baseline performance on this dataset—typically classifying correctly about 3 out of every 4 instances.
+
+Conclusion : 
+* Logistic Regression on the Diabetes dataset achieved 75% accuracy. Key drivers are glucose > BMI > pregnancies > age > family history.
+ Logistics works well as an interpretable baseline that highlights which features matter most in estimating risk.
